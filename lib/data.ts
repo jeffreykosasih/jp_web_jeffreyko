@@ -142,8 +142,8 @@ export const PROJECTS: ProjectData[] = [
     stages: {
       Problem: {
         content: `Recruiters decide in seconds. A grid of student projects gets scanned and skipped.`,
-        image: '/pj_03/pj_03_profile.png',
-        video: '/pj_03/rec_jefri.mp4',
+        image: '/pj_03/portjeffrey_guide.3fdd04e8.jpg',
+        video: '/pj_03/portjeffrey_guide.118c373f.mp4',
       },
       Constraint: {
         content: `It had to stay a portfolio, not a game. If visitors can't tell what an object is, the 3D hides the work.`,
